@@ -1,21 +1,11 @@
 {
     "name": "cordova-plugin-inappbrowser-location-editable",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "description": "Cordova Location Editable InAppBrowser Plugin",
     "cordova": {
         "id": "cordova-plugin-inappbrowser-android-location-editable",
         "platforms": [
-            "android",
-            "amazon-fireos",
-            "ubuntu",
-            "ios",
-            "osx",
-            "wp7",
-            "wp8",
-            "windows8",
-            "windows",
-            "firefoxos",
-            "browser"
+            "android"
         ]
     },
     "repository": {
