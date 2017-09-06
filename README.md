@@ -18,6 +18,7 @@ npm install cordova-plugin-inappbrowser-location-editable
 ```
 Demo App on Google Play :
 
+https://play.google.com/store/apps/details?id=com.juthawong.android.inappbrowserdemo
 
 ## Read Me From Original cordova-plugin-inappbrowser
 
