@@ -30,6 +30,16 @@ This is a Cordova InAppBrowser Modification Plugin That Allow You To Change The 
 
 Created with Love From Bangkok , Thailand - Juthawong Naisanguansee
 
+Install This Plugin :
+Cordova CLI :
+```
+cordova plugin add cordova-plugin-inappbrowser-location-editable
+```
+NPM 
+```
+npm install cordova-plugin-inappbrowser-location-editable
+```
+
 # Read Me From Original cordova-plugin-inappbrowser
 
 You can show helpful articles, videos, and web resources inside of your app. Users can view web pages without leaving your app.
