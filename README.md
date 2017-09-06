@@ -30,6 +30,8 @@ This is a Cordova InAppBrowser Modification Plugin That Allow You To Change The 
 
 Created with Love From Bangkok , Thailand - Juthawong Naisanguansee
 
+Note : Currently Support Only Android Platform - I will add support to other platform soon!
+
 Install This Plugin :
 Cordova CLI :
 ```
