@@ -1,5 +1,6 @@
 # cordova-plugin-inappbrowser-location-editable
 [![Build Status](https://travis-ci.org/juthawong/cordova-plugin-inappbrowser-location-editable.svg?branch=master)](https://travis-ci.org/juthawong/cordova-plugin-inappbrowser-location-editable)
+
 ![Ampare InAppBrowser Demo](http://i.imgur.com/QYE9yNd.png)
 
 This is a Cordova InAppBrowser Modification Plugin That Allow You To Change The URL in Location Bar. Making it Editable.
