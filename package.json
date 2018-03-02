@@ -33,10 +33,6 @@
     "ecosystem:cordova",
     "cordova-android"
   ],
-  "scripts": {
-    "test": "npm run eslint",
-    "eslint": "node node_modules/eslint/bin/eslint www && node node_modules/eslint/bin/eslint src && node node_modules/eslint/bin/eslint tests"
-  },
   "engines": {
     "cordovaDependencies": {
       "0.2.3": {
@@ -48,14 +44,5 @@
     }
   },
   "author": "Apache Software Foundation , Juthawong Naisanguansee",
-  "license": "Apache-2.0",
-  "devDependencies": {
-    "eslint": "^4.0.0",
-    "eslint-config-semistandard": "^11.0.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.3.0",
-    "eslint-plugin-node": "^5.0.0",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1"
-  }
+  "license": "Apache-2.0"
 }
