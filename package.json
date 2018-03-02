@@ -1,35 +1,61 @@
 {
-    "name": "cordova-plugin-inappbrowser-location-editable",
-    "version": "1.7.6",
-    "description": "Cordova Location Editable InAppBrowser Plugin",
-    "cordova": {
-        "id": "cordova-plugin-inappbrowser-android-location-editable",
-        "platforms": [
-            "android"
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/juthawong/cordova-plugin-inappbrowser-location-editable.git"
-    },
-    "keywords": [
-        "cordova",
-        "in",
-        "app",
-        "browser",
-        "inappbrowser",
-        "editable-inappbrowser",
-        "ecosystem:cordova",
-        "cordova-android"
-    ],
-    "engines": [{
-        "name": "cordova",
-        "version": ">=3.1.0"
-    }],
-    "author": "Juthawong Naisanguansee",
-    "license": "Apache 2.0",
-    "bugs": {
-        "url": "https://github.com/juthawong/cordova-plugin-inappbrowser-location-editable/issues"
-    },
-    "homepage": "https://github.com/juthawong/cordova-plugin-inappbrowser-location-editable#readme"
+  "name": "cordova-plugin-inappbrowser-location-editable",
+  "version": "2.0.2",
+  "description": "Ampare Cordova InAppBrowser Location Editable Plugin",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-inappbrowser-location-editable",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juthawong/cordova-plugin-inappbrowser-location-editable"
+  },
+  "bugs": {
+    "url": "https://issues.apache.org/jira/browse/CB"
+  },
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser",
+    "navigation",
+    "webbrowser",
+    "cordova-browser",
+    "full-featured",
+    "android",
+    "ampareengine",
+    "juthawong",
+    "naisanguansee",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "scripts": {
+    "test": "npm run eslint",
+    "eslint": "node node_modules/eslint/bin/eslint www && node node_modules/eslint/bin/eslint src && node node_modules/eslint/bin/eslint tests"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "0.2.3": {
+        "cordova": ">=3.1.0"
+      },
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "author": "Apache Software Foundation , Juthawong Naisanguansee",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-semistandard": "^11.0.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
 }

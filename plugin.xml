@@ -19,13 +19,13 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-inappbrowser-android-location-editable"
-      version="1.7.1">
+           id="cordova-plugin-inappbrowser-location-editable"
+      version="2.0.2">
 
-    <name>Android Location InAppBrowser</name>
-    <description>Cordova Location Editable InAppBrowser Plugin</description>
+    <name>InAppBrowser</name>
+    <description>Cordova InAppBrowser Plugin</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,in,app,browser,inappbrowser,editable-inappbrowser</keywords>
+    <keywords>cordova,in,app,browser,inappbrowser,webbrowser,juthawong,naisanguansee,ampareengine</keywords>
     <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git</repo>
     <issue>https://issues.apache.org/jira/browse/CB/component/12320641</issue>
 
